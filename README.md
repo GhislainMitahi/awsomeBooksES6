@@ -33,10 +33,13 @@ If you want to use this project locally on your device you will need the followi
   To get actions run ```npm install```
 
   
-
-
-
 ## Authors
+
+👤 **Ghislain Mitahi**
+
+- GitHub: [@GhislainMitahi](https://github.com/GhislainMitahi)
+- Twitter: [@GMItahi](https://https://twitter.com/GMitahi)
+- LinkedIn: [ghislainmitahi](https://linkedin.com/in/ghislain-mitahi/)
 
 👤 **Habib Payenda**
 
